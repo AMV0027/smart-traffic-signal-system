@@ -56,9 +56,9 @@ The backend handles the simulation logic, YOLO interference, and signal priority
 
 The frontend is a dynamic dashboard built with React, TailwindCSS, and Lucide icons to visualize intersections and control the simulation.
 
-1. Open a **new** terminal window and navigate to the `frotnend` directory:
+1. Open a **new** terminal window and navigate to the `frontend` directory:
    ```bash
-   cd frotnend
+   cd frontend
    ```
 2. Install the required Node dependencies:
    ```bash
