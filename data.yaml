@@ -1,0 +1,13 @@
+names:
+  - Ambulance
+  - Fire Engine
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: emergency-vehicle-x1nlr
+  url: https://universe.roboflow.com/python-team-tzryt/emergency-vehicle-x1nlr/dataset/2
+  version: 2
+  workspace: python-team-tzryt
+test: test/images
+train: train/images
+val: valid/images

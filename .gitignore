@@ -1,0 +1,48 @@
+# ── Python / Backend ─────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+*.egg
+*.whl
+
+# ── Node / Frontend ──────────────────────────────────
+node_modules/
+dist/
+.cache/
+*.tsbuildinfo
+
+# ── YOLO / ML Model artifacts ───────────────────────
+# *.pt
+# *.onnx
+# *.torchscript
+# runs/
+# wandb/
+
+# ── IDE / Editor ─────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Environment / Secrets ────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── OS ───────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+
+# ── Antigravity / Gemini ─────────────────────────────
+.gemini/
